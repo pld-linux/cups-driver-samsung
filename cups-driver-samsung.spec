@@ -1,7 +1,7 @@
 # TODO
 # - name of spec and package?
 Summary:	CLP-510 Linux Driver
-Summary(pl.UTF-8):   Linuksowy sterownik do CLP-510
+Summary(pl.UTF-8):	Linuksowy sterownik do CLP-510
 Name:		cups-driver-samsung
 Version:	1.1.4
 Release:	0.8
