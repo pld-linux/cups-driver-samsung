@@ -1,7 +1,7 @@
 # TODO
 # - name of spec and package?
 Summary:	CLP-510 Linux Driver
-Summary(pl):	Linuksowy sterownik do CLP-510
+Summary(pl.UTF-8):   Linuksowy sterownik do CLP-510
 Name:		cups-driver-samsung
 Version:	1.1.4
 Release:	0.8
@@ -29,9 +29,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Linux driver for Samsung CLP-510 color laser printer which features
 speeds of up to 6 ppm color, 25 ppm black and has built-in duplexing.
 
-%description -l pl
+%description -l pl.UTF-8
 Linuksowy sterownik do kolorowych drukarek laserowych Samsung CLP-510
-osi±gaj±cych szybko¶æ do 6 stron/minutê w kolorze lub 25 stron/minutê
+osiÄ…gajÄ…cych szybkoÅ›Ä‡ do 6 stron/minutÄ™ w kolorze lub 25 stron/minutÄ™
 w czerni, z wbudowanym dupleksem.
 
 %prep
